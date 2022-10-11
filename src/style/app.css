@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Best in Class';
+  src: local('Best-in-Class'), url(../assets/Best-in-Class.otf) format('opentype');
+}
+
+html {
+  background-color: rgb(241, 245, 249);
+}
